@@ -1,0 +1,30 @@
+.jumbotron{
+    background-color: grey;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 25px;
+    min-height:450px;
+    /* clear: auto; */
+}
+
+body {
+    /* background: url(https://upload.wikimedia.org/wikipedia/commons/9/91/Winkel_triple_projection_SW.jpg);  */
+    /* background: url(http://starkaerospace.com/wp-content/uploads/2015/09/large_left.png); */
+    /* background: url(http://starkaerospace.com/wp-content/uploads/2015/09/bullet.png); */
+     /* background: url(http://wallpaperswide.com/download/old_earth_map-wallpaper-1440x900.jpg); */
+     /* background: url(https://thumbs.dreamstime.com/z/american-passports-travel-road-map-background-western-states-concept-show-usa-roads-cities-66911089.jpg); */
+     /* font-family: cursive; */
+     background: url(https://png.pngtree.com/thumb_back/fw800/back_pic/04/30/81/8858416578841f7.jpg);
+     /* font-family: 'Lobster', cursive; */
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+        }
+        
+    /* width: 100px; */
+    /* height: 100px; */
+    /* clear: both; */
+
+    #playbutton {
+        background-color: silver;
+       
+    }
